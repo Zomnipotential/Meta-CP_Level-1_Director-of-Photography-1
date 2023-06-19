@@ -16,4 +16,5 @@ Determine the number of different artistic photographs which could potentially b
 CONSTRAINTS
 
 1 ≤ N ≤ 200
+
 1 ≤ X ≤ Y ≤ N
